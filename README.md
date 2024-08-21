@@ -52,6 +52,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 - **Email**: [juliasinaga172@gmail.com](mailto:juliasinaga172@gmail@example.com)
 - **LinkedIn**: [https://www.linkedin.com/in/julia-oriana-046737264/](https://www.linkedin.com/in/julia-oriana-046737264/)
 - **Instagram**: [https://www.instagram.com/juliaows/](https://www.instagram.com/juliaows/)
+
 ---
 
 Thank you for visiting my portfolio! Let's build something amazing together.
