@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, specializing in Data Analysis. Below, you'll find a showcase of my projects, skills, certifications, and ways to get in touch. I'm passionate about uncovering insights from data and using analytical techniques to solve complex problems.
+Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, specializing in Data Analysis. Below, you'll find a showcase of my projects, skills,  and ways to get in touch. I'm passionate about uncovering insights from data and using analytical techniques to solve complex problems.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, spec
 ### Project 1: Evaluating Machine Learning Models for Breast Cancer Classification
 - **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
 - **Technologies Used**: RStudio, survival, Weibull Regression
-- **Link**: [Evaluating Machine Learning Models for Breast Cancer Classification](https://rpubs.com/juliaows/1149646) 
+- **Link**: [Evaluating Machine Learning Models for Breast Cancer Classification](https://juliaows.github.io/classifications/classification190824.html)) 
 
 ### Project 2: EDA of Portuguese Bank Marketing
 - **Description**: Conducted Exploratory Data Analysis (EDA) on a Portuguese bank marketing dataset to uncover patterns and insights. The analysis focused on understanding customer behavior and key factors influencing marketing campaign success
