@@ -16,34 +16,25 @@ Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, spec
 
 ## 💼 Projects
 
-### Project 1: [Geographically Weighted Regression for Human Development Index Analysis (2022)]
-- **Description**: This project constructs a regression model using spatial methodologies to capture geographical dependencies in data. By incorporating spatial relationships, the model aims to enhance predictive accuracy. The dataset is sourced from Badan Pusat Statistik (BPS).
-- **Technologies Used**: RStudio, Spatial Regression, BPS Data
-- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149629)
+### Project 1: [Evaluating Machine Learning Models for Breast Cancer Classification]
+- **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
+- **Technologies Used**: RStudio, survival, Weibull Regression
+- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149646) 
 
 ### Project 2: [EDA: Portuguese Bank Marketing]
 - **Description**: Conducted Exploratory Data Analysis (EDA) on a Portuguese bank marketing dataset to uncover patterns and insights. The analysis focused on understanding customer behavior and key factors influencing marketing campaign success
 - **Technologies Used**: RStudio, ggplot.
 - **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149649)
 
-### Project 3: [Project Name]
-- **Description**: A brief description of what this project is about.
-- **Technologies Used**: List the key technologies or libraries you used.
-- **Link**: [GitHub Repository](#) | [Live Demo](#)
+### Project 3: [Survival Analysis on Employee Turnover]
+- **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
+- **Technologies Used**: RStudio, survival, Weibull Regression
+- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149646) 
 
-_For more projects, please visit my [GitHub profile](#)._
-
----
-
-## 🎓 Certifications
-
-### Data Analysis & Data Science
-- **[Certification Title]**: Description or institution (e.g., Coursera, edX)  
-- **[Certification Title]**: Description or institution
-
-### Debate & Event Participation
-- **Debate Competition**: Participated in [Competition Name]  
-- **Event Crew**: Member of the organizing team for [Event Name]
+### Project 4: [Geographically Weighted Regression for Human Development Index Analysis (2022)]
+- **Description**: This project constructs a regression model using spatial methodologies to capture geographical dependencies in data. By incorporating spatial relationships, the model aims to enhance predictive accuracy. The dataset is sourced from Badan Pusat Statistik (BPS).
+- **Technologies Used**: RStudio, Spatial Regression, BPS Data
+- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149629)
 
 ---
 
@@ -51,9 +42,8 @@ _For more projects, please visit my [GitHub profile](#)._
 
 If you write articles or maintain a blog, you can include links here. Otherwise, you can remove this section.
 
-- [Article 1 Title](#)
-- [Article 2 Title](#)
-- [Article 3 Title](#)
+- [Forecasting QRIS Transaction Trends in East Kalimantan (Aug-Dec 2023) Using Brown’s Double Exponential Smoothing](https://medium.com/@juliasinaga172/exposing-the-trend-of-qris-transaction-volume-and-value-forecasting-in-east-kalimantan-from-august-d115a6a84035)
+- [Analisis Regresi Linear Berganda: Faktor yang Mempengaruhi Tingkat Kriminalitas di Indonesia Tahun 2021](https://medium.com/@juliasinaga172/analisis-regresi-linear-berganda-faktor-yang-mempengaruhi-tingkat-kriminalitas-di-indonesia-tahun-9252a2bcc08d)
 
 ---
 
