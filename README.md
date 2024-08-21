@@ -16,25 +16,25 @@ Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, spec
 
 ## 💼 Projects
 
-### Project 1: [Evaluating Machine Learning Models for Breast Cancer Classification]
+### Project 1: Evaluating Machine Learning Models for Breast Cancer Classification
 - **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
 - **Technologies Used**: RStudio, survival, Weibull Regression
 - **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149646) 
 
-### Project 2: [EDA: Portuguese Bank Marketing]
+### Project 2: EDA of Portuguese Bank Marketing
 - **Description**: Conducted Exploratory Data Analysis (EDA) on a Portuguese bank marketing dataset to uncover patterns and insights. The analysis focused on understanding customer behavior and key factors influencing marketing campaign success
 - **Technologies Used**: RStudio, ggplot.
-- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149649)
+- **Link**: (https://rpubs.com/juliaows/1149649)
 
-### Project 3: [Survival Analysis on Employee Turnover]
+### Project 3: Survival Analysis on Employee Turnover
 - **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
 - **Technologies Used**: RStudio, survival, Weibull Regression
-- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149646) 
+- **Link**: (https://rpubs.com/juliaows/1149646) 
 
-### Project 4: [Geographically Weighted Regression for Human Development Index Analysis (2022)]
+### Project 4: Geographically Weighted Regression for Human Development Index Analysis (2022)
 - **Description**: This project constructs a regression model using spatial methodologies to capture geographical dependencies in data. By incorporating spatial relationships, the model aims to enhance predictive accuracy. The dataset is sourced from Badan Pusat Statistik (BPS).
 - **Technologies Used**: RStudio, Spatial Regression, BPS Data
-- **Link**: [GitHub Repository](https://rpubs.com/juliaows/1149629)
+- **Link**: (https://rpubs.com/juliaows/1149629)
 
 ---
 
@@ -52,8 +52,8 @@ If you write articles or maintain a blog, you can include links here. Otherwise,
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 - **Email**: [juliasinaga172@gmail.com](mailto:juliasinaga172@gmail@example.com)
-- **LinkedIn**: [Julia Oriana](www.linkedin.com/in/julia-oriana-046737264)
-- **Instagram**: [@juliaows](instagram.com/juliaows/)
+- **LinkedIn**: (www.linkedin.com/in/julia-oriana-046737264)
+- **Instagram**:(instagram.com/juliaows/)
 
 ---
 
