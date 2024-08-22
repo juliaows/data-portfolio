@@ -29,7 +29,7 @@ Welcome to my portfolio! I'm a recent graduate with a degree in Statistics, spec
 ### Project 3: Survival Analysis on Employee Turnover
 - **Description**: This project applies survival analysis to study employee turnover, using Weibull regression to examine various influencing factors.
 - **Technologies Used**: RStudio, survival, Weibull Regression
-- **Link**: [Survival Analysis on Employee Turnover](https://rpubs.com/juliaows/1149646) 
+- **Link**: [Survival Analysis on Employee Turnover](https://juliaows.github.io/employee-turnover/survival_analysis.html)
 
 ### Project 4: Geographically Weighted Regression for Human Development Index Analysis (2022)
 - **Description**: This project constructs a regression model using spatial methodologies to capture geographical dependencies in data. By incorporating spatial relationships, the model aims to enhance predictive accuracy. The dataset is sourced from Badan Pusat Statistik (BPS).
